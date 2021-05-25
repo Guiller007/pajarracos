@@ -7,8 +7,8 @@ disqusShortname = "" # Enable comments by entering your Disqus shortname
 googleAnalytics = "" # Enable Google Analytics by entering your tracking id
 
 [Author]
-  name = "John Doe"
-  bio = "John Doe's true identity is unknown. Maybe he is a successful blogger or writer. Nobody knows it."
+  name = "G007"
+  bio = "G007 es un espia secreto interestelar"
   avatar = "img/avatar.png"
 
 [Params]

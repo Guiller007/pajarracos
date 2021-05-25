@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pajarracos</title>
+    <link>/</link>
+    <description>Recent content on Pajarracos</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Tue, 25 May 2021 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>empiezo el blog</title>
+      <link>/post/2021-05-25-empiezo-el-blog/</link>
+      <pubDate>Tue, 25 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2021-05-25-empiezo-el-blog/</guid>
+      <description>Mi primer post Hola soy un pajarraco qu evoy a hacer un blog por primera vez.</description>
+    </item>
+    
+    <item>
+      <title>Otra prueba</title>
+      <link>/post/2021-05-25-otra-prueba/</link>
+      <pubDate>Tue, 25 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2021-05-25-otra-prueba/</guid>
+      <description>Lego piezas Las piezas de lego que busco son estas</description>
+    </item>
+    
+    <item>
+      <title>About Hugo</title>
+      <link>/about/</link>
+      <pubDate>Wed, 09 Apr 2014 00:00:00 +0000</pubDate>
+      
+      <guid>/about/</guid>
+      <description>Hugo is a static site engine written in Go.
+It makes use of a variety of open source projects including:
+ Cobra Viper J Walter Weatherman Cast  Learn more and contribute on GitHub.
+Setup Some fun facts about Hugo:
+ Built in Go Loosely inspired by Jekyll Primarily developed by spf13 on the train while commuting to and from Manhattan. Coded in Vim using spf13-vim  Have questions or suggestions?</description>
+    </item>
+    
+  </channel>
+</rss>
