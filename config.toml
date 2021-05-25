@@ -1,6 +1,7 @@
-baseurl = "/"
+baseurl = "https://pajarracos.netlify.app/"
 title = "Pajarracos"
 languageCode = "es"
+defaultContentLanguage = "es"
 paginate = "10" # Number of posts per page
 theme = "Mainroad"
 disqusShortname = "" # Enable comments by entering your Disqus shortname
@@ -12,15 +13,29 @@ googleAnalytics = "" # Enable Google Analytics by entering your tracking id
   avatar = "img/avatar.png"
 
 [Params]
-  description = "Guiller0007 Personal blog about everything" # Description of your site
+  description = "G007 Personal blog about everything" # Description of your site
+  copyright = "G007"
   opengraph = true
+  schema = true # Enable Schema
   twitter_cards = false
   readmore = false # Show "Read more" button in list if true
   authorbox = true
+  toc = true # Enable Table of Contents
   pager = true
   post_meta = ["date", "categories"] # Order of post meta information
+  mathjax = true # Enable MathJax
+  mathjaxPath = "https://cdnjs.cloudflare.com/ajax/libs/mathjax"
+  
+[Params.style.vars]
+  highlightColor = "#e22d30" # Override highlight color
+
+  # Override font-family sets. Secondary font-family set responsible for pre, code, kbd, and samp tags font
+  # Take care of different quotes OR escaping symbols in these params if necessary
+  fontFamilyPrimary = "'Open Sans', Helvetica, Arial, sans-serif"
+  fontFamilySecondary = "SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', 'Courier New', monospace"
 
 [Params.logo]
+  image = "img/pajar.jpg"
   subtitle = "Ideas, inventos y muchas cosas más." # Logo subtitle
 
 [Params.sidebar]
